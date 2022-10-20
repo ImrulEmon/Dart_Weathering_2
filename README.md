@@ -1,4 +1,4 @@
-A sample command-line application in `DART`
+A simple command-line application in `DART`
 
 # *`Weather Application`* on _`DART`_
 
